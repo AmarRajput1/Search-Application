@@ -1,5 +1,5 @@
 # Search-Application
-Technical test response - an application to search and return data.
+An application to compare MSSQL Database vs Excel data handling using C#.NET
 
 This application has been programmed using c# as a visual studio windows forms project. The purpose of this demonstration is to show communication and data sorting from two sources.
 
